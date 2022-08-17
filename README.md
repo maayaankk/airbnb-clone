@@ -1,6 +1,6 @@
 
 ## airbnb-clone
-This is the clone of Airbnb
+This is the clone of Airbnb made using react.js
 
 ## Project Details
 A simple basic UI using reactJs
