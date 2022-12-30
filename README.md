@@ -15,6 +15,6 @@ In Your Terminal 👇
 3. npm start
 
 ## How to use material-ui (install material-ui in our project)
-1. npm i @material-ui/core
+1. npm i @material-ui/core.
 2. npm i @material-ui/icons
 
